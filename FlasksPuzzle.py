@@ -9,8 +9,6 @@ os.system("")
 def clear_screen():
     '''
     Clear terminal screen
-    in: none
-    out: none
     '''
     os.system("clear")
     
